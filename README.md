@@ -1,4 +1,4 @@
 # SIMPLE TEST GIT
 
 
-Learn basic git branch
+Learn basic git branch.
